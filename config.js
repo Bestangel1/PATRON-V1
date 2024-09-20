@@ -23,14 +23,14 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
-global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
+global.owner = [2250100282598'];
+global.ownMain =[2250100282598'];
+global.NamaOwner = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
 global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.packname = 'PATRON 🚹'; // Change if needed
+global.packname = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜'; // Change if needed
 global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not change
 
 //===========================//
@@ -46,7 +46,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 //===========================//
 
-global.country = '234';
+global.country = '225';
 global.system = {
   gmail: 'winneraileme6@gmail.com',
 };
@@ -71,7 +71,7 @@ global.decor = {
   haka: '❏═┅═━━━┅',
   lopr: 'Ⓟ',
   lolm: 'Ⓛ',
-  htjava: '❃'
+  htjava: '❃ ▰▰▰▰▰▰▱▱▱▱ ❃ '
 };
 
 //===========================//
